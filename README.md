@@ -47,7 +47,8 @@ Welcome to my GitHub profile! I'm a professional software developer with a stron
 
 ## 📫 **Let's Connect!**
 - **Email:** ayushsharma.rit@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** www.linkedin.com/in/ayush-sharma-764777225
+- **Website:** www.linkedin.com/in/ayush-sharma-764777225
 ---
 
 ## 🎯 **My GitHub Stats**
